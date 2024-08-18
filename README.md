@@ -1,5 +1,3 @@
-# HelLo, world!
+# HelLo!
 
-i study in Netology
-
-17/08/2024
+This is a training repository
